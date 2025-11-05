@@ -7,7 +7,7 @@ This chatbot integrates with **API** through a **Flask backend** to deliver smar
 
 ## Features
 
-- **Gemini API Integration** for intelligent chatbot responses  
+- **API Integration** for intelligent chatbot responses  
 - **Real-time conversation** between student and bot  
 - **Elegant, responsive UI** (built using Tailwind CSS)  
 - Lightweight — just HTML + JS + Flask backend  
@@ -22,6 +22,12 @@ This chatbot integrates with **API** through a **Flask backend** to deliver smar
 |----------|
 | ![Chat UI Preview](screenshot.png) |
 ---
+
+## Steps :
+
+- 1.Get your API Key
+- 2.Add it in your Flask backend (app.py)
+## Note : In .env file replace your API key 
 
 ## How to Run
 
